@@ -1,6 +1,4 @@
-<title>Nombre del Proyecto</title>
-</head>
-<body>
+
   <h1>Nombre del Proyecto</h1>
   <p>Breve descripción del proyecto</p>
   <h2>Requisitos</h2>
