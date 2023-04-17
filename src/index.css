@@ -1,0 +1,19 @@
+body {
+  -webkit-text-size-adjust: 100%;
+}
+
+th {
+  text-align: -webkit-match-parent;
+}
+
+.welcome-container {
+    height: 100vh;
+  }
+  
+  .welcome-container .row {
+    height: 100%;
+  }
+  
+  .welcome-container img {
+    height: calc(100% - 70px);
+  }
