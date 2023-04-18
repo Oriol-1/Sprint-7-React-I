@@ -185,7 +185,12 @@ useEffect(() => {
                                     className="btn btn-primary hover:bg-red-500 mx-auto p-2 w-100 rounded shadow m-2"
                                     type="submit"
                                     value={presuss.id? "Editar Presupuesto" : "Crear Presupuesto"}
+
+                                    style={{backgroundColor: presuss.id ? "red" : "green"}}
+ 
                                 />
+
+
                             </div>
                         </div>
                     </div>
